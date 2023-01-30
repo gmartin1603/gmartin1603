@@ -23,4 +23,11 @@ Here are some ideas to get you started:
 - Node.js
 - Firebase
 
+### Top Projects
+- Overtime Management
+
+### Contact
+- Email: duramaxer228@gmail.com
+- LinkedIn: 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmartin1603&theme=dark&show_icons=true)
