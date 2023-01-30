@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # George Martin
 
-## A software engineer with a passion for creating impactful and innovative technology solutions. Experienced in [insert tech stack], eager to continue learning and growing in the field.
+## A software engineer with a passion for creating impactful and innovative technology solutions. Experienced in modern wed development technologies, eager to continue learning and growing in the field.
 
 ### Skills
 - React.js
