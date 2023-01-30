@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# George Martin
+
+## A software engineer with a passion for creating impactful and innovative technology solutions. Experienced in [insert tech stack], eager to continue learning and growing in the field.
+
+### Skills
+- React.js
+- Node.js
+- Firebase
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmartin1603&theme=dark&show_icons=true)
