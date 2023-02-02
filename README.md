@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### Top Projects
 - Overtime Management
+    <img alt="Schedule" src="https://lh3.googleusercontent.com/xVQmgHgOZDpO_GrQqKZ2RvkgZsJBWRY8q6ZW5hPcpN9u3khRbT4R_E_RABJ0BPnIlmZajPL_nQnK5DnLpBdHXPiJAx2qnKlTxLaBJCA3ibq7O8EA-TcxTl9MQ1P79qHnqE_qnSZ3Iw=w2400>
 
 ### 🛠 &nbsp;Tech Stack
 
