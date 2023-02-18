@@ -42,4 +42,5 @@ https://www.loom.com/share/2dc3dcef23944e8ea972e42b229cc98f
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmartin1603&theme=dark&show_icons=true)
 
 ### Contact
-- Email: duramaxer228@gmail.com
+- My Portfolio: <a href="https://martincustomcoding.com"> martincustomcoding.com </a>
+- Email: george@martincustomcoding.com
