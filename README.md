@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-### Top Projects
-- Overtime Management
-https://www.loom.com/share/2dc3dcef23944e8ea972e42b229cc98f
+### Spot Light Project
+#### Overtime Management
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+<br/>
+View the demo video [here](https://www.loom.com/share/2dc3dcef23944e8ea972e42b229cc98f)
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmartin1603&theme=dark&show_icons=true)
 
