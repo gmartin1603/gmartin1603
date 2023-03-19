@@ -27,20 +27,23 @@ Here are some ideas to get you started:
 ![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=react-router)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-### Other Experience & Interests
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+### Other Areas of Study & Interests
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
 ### Spot Light Project
-#### Overtime Management
+#### Overtime Management - App Demo - [Watch Video](https://www.loom.com/share/2dc3dcef23944e8ea972e42b229cc98f)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=react-router)&nbsp;
 <br/>
-View the demo video [here](https://www.loom.com/share/2dc3dcef23944e8ea972e42b229cc98f)
+[<img style="width:400px;" src="https://cdn.loom.com/sessions/thumbnails/2dc3dcef23944e8ea972e42b229cc98f-1676224245435-with-play.gif">](https://www.loom.com/share/2dc3dcef23944e8ea972e42b229cc98f)
+  <br/>
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmartin1603&theme=dark&show_icons=true)
 
